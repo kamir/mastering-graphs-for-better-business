@@ -1,1 +1,4 @@
-# mastering-graphs-for-better-business
+# Mastering Graphs for Better Business
+
+Using networks is not a new idea. 
+
